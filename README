@@ -1,0 +1,3 @@
+This code crawls the University of Michigan police department's website (http://police.umich.edu/) and extracts daily incident information.
+
+It was written for SI544 at University of Michigan in Fall 2011.
